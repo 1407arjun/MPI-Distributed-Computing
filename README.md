@@ -1,4 +1,4 @@
-# OpenMP Parallel Computing Examples
+# MPI Distributed Computing Examples
 
 Running a solution
 
