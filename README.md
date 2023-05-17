@@ -1,6 +1,6 @@
 # MPI Distributed Computing Examples
 
-Running a solution
+Compiling and running a solution
 
 ```bash
 mpicc -o solution solution.c
